@@ -8,6 +8,7 @@ namespace GtCap
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("hello");
+            Console.WriteLine("HI");
         }
     }
 }
